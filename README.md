@@ -26,4 +26,4 @@ For more on the evaluation of this project check: https://www.kaggle.com/c/blueb
 
 ## 4. Features
 
-Kaggle provides a data dictioniary detailing all of the features of the dataset.
+Kaggle provides a data dictionary detailing all of the features of the dataset.
